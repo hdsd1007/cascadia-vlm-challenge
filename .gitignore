@@ -1,0 +1,5 @@
+.env
+.claude/
+vlm_challenge.ipynb
+vlm_challenge_output.ipynb
+challenge overview.txt
